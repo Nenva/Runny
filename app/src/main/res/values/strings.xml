@@ -1,4 +1,11 @@
 <resources>
     <string name="app_name">Runny</string>
+    <string-array name="filter_options">
+        <item>Date</item>
+        <item>Running Time</item>
+        <item>Distance</item>
+        <item>Average Speed</item>
+        <item>Calories Burned</item>
+    </string-array>
     <string name="google_maps_key">AIzaSyDB6t1uaD5BvGU40Blu187Nu5BUsBMnFIY</string>
 </resources>
